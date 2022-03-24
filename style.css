@@ -1,0 +1,31 @@
+
+.cabecalho{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.juntologo{
+    display: flex;
+    align-items: center;
+    margin: 1%;
+}
+
+.imglocal{
+    width: 7%;
+}
+
+.textologo{
+    margin-left: 4%;
+    font-size: 25px;
+    color: #FF0000;
+}
+
+.imglupa{
+    width: 2%;
+    margin: 1%;
+}
+
+.imglondon{
+    width: 100%;
+}
